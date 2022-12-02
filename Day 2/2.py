@@ -11,7 +11,6 @@ for k in data.splitlines():
 
 rnd_points = 0
 for moves in list_moves:
-    # for ind, _ in enumerate(moves):
     first = moves[0]
     last = moves[1]
 
